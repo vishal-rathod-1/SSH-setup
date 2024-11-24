@@ -80,4 +80,6 @@ Troubleshooting
 SSH service not running: Start it with sudo systemctl start ssh.
 Firewall Blocking access: Check the allowed port using the command sudo ufw status.
 Authentication Failure: Check your username, password or key configuration .
+
+
 <----------------------------------------->

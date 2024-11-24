@@ -1,5 +1,6 @@
 # SSH-setup
 
+![ssh-setup](https://github.com/user-attachments/assets/6695d345-d9f3-4643-a8d8-b9a2d9479f51)
 SSH Server Setup Guide
 Follow these steps to set up and secure your SSH server.
 
